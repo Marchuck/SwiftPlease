@@ -24,7 +24,7 @@
                                     <constraint firstAttribute="width" constant="200" id="EcY-fS-G2r"/>
                                 </constraints>
                                 <attributedString key="attributedText">
-                                    <fragment content="Cześć, chuju!">
+                                    <fragment content="Food Tracker">
                                         <attributes>
                                             <color key="NSColor" cocoaTouchSystemColor="darkTextColor"/>
                                             <font key="NSFont" size="36" name="HelveticaNeue"/>
